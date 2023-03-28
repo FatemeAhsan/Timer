@@ -3,8 +3,7 @@ Timer with the STM32 Nucleo-64 (NUCLEO-F401RE) board and simulation using HAL
 
 # Demo
 
-https://user-images.githubusercontent.com/100623985/228030232-70eddd3e-1ed1-47bf-b1bc-6809c642705e.mp4
-
+https://user-images.githubusercontent.com/100623985/228104414-9c129c80-463e-4600-995b-a7537306d761.mp4
 
 <br/>
 
