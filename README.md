@@ -1,5 +1,5 @@
 # Timer
-Timer with The STM32 Nucleo-64 (NUCLEO-F401RE) board and simulation using HAL 
+Timer with the STM32 Nucleo-64 (NUCLEO-F401RE) board and simulation using HAL 
 
 # Demo
 
